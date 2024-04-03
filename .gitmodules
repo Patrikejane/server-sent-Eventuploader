@@ -1,0 +1,3 @@
+[submodule "sse-uploader-client"]
+	path = sse-uploader-client
+	url = https://github.com/Patrikejane/server-sentClient.git
